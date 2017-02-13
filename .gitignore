@@ -4,4 +4,4 @@ target
 *.jar
 .project
 .bpmn
-.classpath 
+.classpath
